@@ -1,0 +1,153 @@
+{
+  "waiting_payment": [
+    {
+      "id": 1001,
+      "user_id": 8444800411,
+      "user_name": "Артём",
+      "user_input_id": "80",
+      "amount": 600.0,
+      "time": "02.01.2026 22:58:43",
+      "status": "pending",
+      "screenshot": false,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    },
+    {
+      "id": 1005,
+      "user_id": 8444800411,
+      "user_name": "Арт",
+      "user_input_id": "50",
+      "amount": 60.0,
+      "time": "03.01.2026 20:05:15",
+      "status": "waiting_details",
+      "details_sent": false,
+      "screenshot": false,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    },
+    {
+      "id": 1006,
+      "user_id": 8444800411,
+      "user_name": "Арт",
+      "user_input_id": "8066465",
+      "amount": 500.0,
+      "time": "03.01.2026 20:17:22",
+      "status": "waiting_details",
+      "phone": "",
+      "receiver": "",
+      "details_sent": false,
+      "screenshot": false,
+      "screenshot_time": null,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    },
+    {
+      "id": 1007,
+      "user_id": 8444800411,
+      "user_name": "Арт",
+      "user_input_id": "65",
+      "amount": 262.0,
+      "time": "03.01.2026 20:19:20",
+      "status": "waiting_details",
+      "phone": "",
+      "receiver": "",
+      "details_sent": false,
+      "screenshot": false,
+      "screenshot_time": null,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    },
+    {
+      "id": 1008,
+      "user_id": 8444800411,
+      "user_name": "Арт",
+      "user_input_id": "989898",
+      "amount": 600.0,
+      "time": "03.01.2026 20:34:05",
+      "status": "waiting_details",
+      "phone": "",
+      "details_sent": false,
+      "screenshot": false,
+      "screenshot_time": null,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    },
+    {
+      "id": 1009,
+      "user_id": 8444800411,
+      "user_name": "Арт",
+      "user_input_id": "65",
+      "amount": 50.0,
+      "time": "03.01.2026 20:42:14",
+      "status": "waiting_payment",
+      "phone": "",
+      "screenshot": false,
+      "confirmed": false,
+      "confirmed_by": null
+    }
+  ],
+  "waiting_screenshot": [
+    {
+      "id": 1004,
+      "user_id": 8444800411,
+      "user_name": "Артём",
+      "user_input_id": "50",
+      "amount": 50.0,
+      "time": "02.01.2026 23:22:53",
+      "status": "waiting_screenshot",
+      "details_sent": true,
+      "screenshot": false,
+      "confirmed": false,
+      "confirmed_by": null,
+      "confirmed_time": null
+    }
+  ],
+  "completed": [
+    {
+      "id": 1000,
+      "user_id": 8444800411,
+      "user_name": "Артём",
+      "user_input_id": "12",
+      "amount": 120.0,
+      "time": "02.01.2026 22:55:40",
+      "status": "completed",
+      "screenshot": false,
+      "confirmed": true,
+      "confirmed_by": "Артём",
+      "confirmed_time": "02.01.2026 22:56:15"
+    },
+    {
+      "id": 1002,
+      "user_id": 8444800411,
+      "user_name": "Артём",
+      "user_input_id": "66",
+      "amount": 598.0,
+      "time": "02.01.2026 22:59:35",
+      "status": "completed",
+      "screenshot": false,
+      "confirmed": true,
+      "confirmed_by": "Артём",
+      "confirmed_time": "02.01.2026 22:59:46"
+    },
+    {
+      "id": 1003,
+      "user_id": 8444800411,
+      "user_name": "Артём",
+      "user_input_id": "66",
+      "amount": 50.0,
+      "time": "02.01.2026 23:20:55",
+      "status": "completed",
+      "details_sent": true,
+      "screenshot": true,
+      "confirmed": true,
+      "confirmed_by": "Артём",
+      "confirmed_time": "02.01.2026 23:24:09"
+    }
+  ],
+  "next_id": 1010
+}
